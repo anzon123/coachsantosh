@@ -1,0 +1,19 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="url(#paint0_linear_1_2)"/>
+  <rect x="40" y="40" width="820" height="1020" rx="28" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.25)"/>
+  <circle cx="468" cy="335" r="170" fill="#D7EAD0"/>
+  <path d="M320 885C352 744 397 670 480 670C563 670 608 744 640 885V935H320V885Z" fill="#123F36"/>
+  <path d="M404 510C404 426 460 360 538 360H568C646 360 702 426 702 510V548H404V510Z" fill="#EFC8A2"/>
+  <path d="M454 305C454 252 493 210 546 210H589C642 210 681 252 681 305V365H454V305Z" fill="#173C34"/>
+  <path d="M485 328L566 248L656 316L612 390L485 328Z" fill="#D4E157"/>
+  <circle cx="551" cy="425" r="15" fill="#1E2E2A"/>
+  <circle cx="606" cy="425" r="15" fill="#1E2E2A"/>
+  <path d="M510 493C548 520 585 520 623 493" stroke="#1E2E2A" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="965" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">PHOTO 4</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="166" y1="70" x2="750" y2="1048" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DDEAD6"/>
+      <stop offset="1" stop-color="#B4D0C3"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="url(#paint0_linear_1_2)"/>
+  <rect x="40" y="40" width="820" height="1020" rx="28" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.25)"/>
+  <circle cx="455" cy="340" r="170" fill="#DDEBC1"/>
+  <path d="M322 870C346 735 391 657 471 657C551 657 596 735 620 870V925H322V870Z" fill="#163A35"/>
+  <path d="M398 500C398 420 456 355 536 355H561C641 355 699 420 699 500V535H398V500Z" fill="#F2D7B2"/>
+  <path d="M438 300C438 247 480 205 533 205H585C638 205 680 247 680 300V360H438V300Z" fill="#143E38"/>
+  <path d="M463 318L557 230L647 312L591 370L463 318Z" fill="#D4E157"/>
+  <circle cx="551" cy="427" r="14" fill="#1E2E2A"/>
+  <circle cx="604" cy="427" r="14" fill="#1E2E2A"/>
+  <path d="M513 492C548 517 584 517 619 492" stroke="#1E2E2A" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="960" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">PHOTO 1</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="166" y1="64" x2="738" y2="1060" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5E9D6"/>
+      <stop offset="1" stop-color="#C7D7C8"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="url(#paint0_linear_1_2)"/>
+  <rect x="40" y="40" width="820" height="1020" rx="28" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.25)"/>
+  <circle cx="430" cy="315" r="170" fill="#D7E6B2"/>
+  <path d="M312 877C342 752 389 667 480 667C571 667 618 752 648 877V930H312V877Z" fill="#193D34"/>
+  <path d="M395 505C395 422 454 355 537 355H563C646 355 705 422 705 505V540H395V505Z" fill="#F2D0A1"/>
+  <path d="M438 292C438 239 479 197 532 197H590C643 197 684 239 684 292V360H438V292Z" fill="#163E39"/>
+  <path d="M468 318L562 236L650 312L600 380L468 318Z" fill="#D4E157"/>
+  <circle cx="544" cy="421" r="14" fill="#1E2E2A"/>
+  <circle cx="604" cy="421" r="14" fill="#1E2E2A"/>
+  <path d="M507 486C543 513 581 513 617 486" stroke="#1E2E2A" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="970" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="3">PHOTO 3</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="140" y1="50" x2="783" y2="1030" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4F0D9"/>
+      <stop offset="1" stop-color="#BED5C8"/>
+    </linearGradient>
+  </defs>
+</svg>
